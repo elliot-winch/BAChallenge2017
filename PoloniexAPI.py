@@ -1,3 +1,5 @@
+# Poloniex API taken from https://poloniex.com/support/api/
+
 import urllib
 import urllib2
 import json
